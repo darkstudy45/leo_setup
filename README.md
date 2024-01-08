@@ -1,2 +1,3 @@
 # leo_setup
-aleo setup tool
+chmod +x setup.sh
+./setup.sh aleo_code githum@mail githubrepo_link 
