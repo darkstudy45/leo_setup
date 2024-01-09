@@ -1,6 +1,6 @@
 git clone https://github.com/AleoHQ/leo
 cd leo
-cargo cargo build
+cargo build
 cargo install --path .
 leo account import "$1"
 leo example tictactoe
